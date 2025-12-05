@@ -1,0 +1,5 @@
+application:
+  name: api-gateway
+
+server:
+  port: 4000
